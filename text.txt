@@ -1,0 +1,8 @@
+Names: {{user_name}}
+
+Email : {{user_email}}
+
+Message : {{user_message}}
+
+Best wishes,
+EmailJS team
